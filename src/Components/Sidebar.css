@@ -1,0 +1,7 @@
+.sidebar {
+  border-right: 1px solid var(--background-color);
+  flex: 0.3;
+  min-width: 250px;
+  margin-top: 20px;
+  padding: 0px 20px;
+}
